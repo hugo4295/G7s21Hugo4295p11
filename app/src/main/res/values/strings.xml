@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">G7s21Hugo4295p11</string>
+    <string name="lmt_p">"Archivo de texto "</string>
+    <string name="lnombre">Ingresa tu nombre</string>
+    <string name="ledad">Ingresa tu edad</string>
+    <string name="lcorreo">Ingresa tu correo electronico</string>
+    <string name="lmbtnagregar">Agrega</string>
+</resources>
